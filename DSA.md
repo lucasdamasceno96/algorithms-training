@@ -49,6 +49,16 @@ Quanto de memória extra o algoritmo consome.
 
 ---
 
+### As complexidades que você verá sempre:
+
+| Notação       | Nome         | Exemplo no mundo real                                          |
+| ------------- | ------------ | -------------------------------------------------------------- |
+| $O(1)$        | Constant     | Acessar um elemento de um Array pelo índice.                   |
+| $O(\log n)$   | Logarithmic  | Binary Search (cortar o problema ao meio a cada passo).        |
+| $O(n)$        | Linear       | Percorrer uma lista de instâncias EC2 uma por uma.             |
+| $O(n \log n)$ | Linearithmic | A maioria dos algoritmos de ordenação eficientes (Merge Sort). |
+| $O(n^2)$      | Quadratic    | Dois loops aninhados (evite isso em produção!).                |
+
 # 3️⃣ Estruturas de Dados Fundamentais
 
 ---

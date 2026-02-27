@@ -18,12 +18,12 @@ This repository contains my daily practice of data structures and algorithms, im
 - `/python`: Python implementations and unit tests.
 - `/golang`: Go implementations using standard testing packages.
 
-## 📈 Roadmap & Progress
+## 📈 Roadmap & Progress ✅
 
 ### Phase 1: The Basics (Arrays & Strings)
 
-- [ ] 1.  **Reverse a String**: The "Hello World" of algorithms.
-- [ ] 2.  **Palindrome Check**: Introduction to two-pointers.
+- [✅] 1. **Reverse a String**: The "Hello World" of algorithms.
+- [✅] 2. **Palindrome Check**: Introduction to two-pointers.
 - [ ] 3.  **FizzBuzz**: Classic logic and modulo operations.
 - [ ] 4.  **Find the Largest Element**: Basic array iteration.
 - [ ] 5.  **Two Sum**: Introduction to HashMaps (crucial for Big O optimization).

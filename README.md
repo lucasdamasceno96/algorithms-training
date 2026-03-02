@@ -31,8 +31,8 @@ algorithms-training/
 
 - ✅ 1. **Reverse a String**: The "Hello World" of algorithms.
 - ✅ 2. **Palindrome Check**: Introduction to two-pointers.
-- [ ] 3.  **FizzBuzz**: Classic logic and modulo operations.
-- [ ] 4.  **Find the Largest Element**: Basic array iteration.
+- ✅ 3. **FizzBuzz**: Classic logic and modulo operations.
+- ✅ 4. **Find the Largest Element**: Basic array iteration.
 - [ ] 5.  **Two Sum**: Introduction to HashMaps (crucial for Big O optimization).
 
 ### Phase 2: Sorting & Searching (The Foundation)

@@ -37,8 +37,8 @@ algorithms-training/
 
 ### Phase 2: Sorting & Searching (The Foundation)
 
-- [ ] 6.  **Binary Search**: Essential for efficient data retrieval.
-- [ ] 7.  **Bubble Sort**: Understanding how sorting works (conceptually).
+- ✅ 6. **Binary Search**: Essential for efficient data retrieval.
+- ✅ 7. **Bubble Sort**: Understanding how sorting works (conceptually).
 - [ ] 8.  **Merge Sorted Arrays**: Prepares for Divide and Conquer.
 - [ ] 9.  **Valid Anagram**: Using HashMaps to compare frequencies.
 - [ ] 10. **Contains Duplicate**: Using Sets for unique identification.
